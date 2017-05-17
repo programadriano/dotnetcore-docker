@@ -1,0 +1,8 @@
+/Users/tadriano/Documents/hello-aspnet/bin/Debug/netcoreapp1.1/hello-aspnet.deps.json
+/Users/tadriano/Documents/hello-aspnet/bin/Debug/netcoreapp1.1/hello-aspnet.runtimeconfig.json
+/Users/tadriano/Documents/hello-aspnet/bin/Debug/netcoreapp1.1/hello-aspnet.runtimeconfig.dev.json
+/Users/tadriano/Documents/hello-aspnet/bin/Debug/netcoreapp1.1/hello-aspnet.dll
+/Users/tadriano/Documents/hello-aspnet/bin/Debug/netcoreapp1.1/hello-aspnet.pdb
+/Users/tadriano/Documents/hello-aspnet/obj/Debug/netcoreapp1.1/hello-aspnet.AssemblyInfo.cs
+/Users/tadriano/Documents/hello-aspnet/obj/Debug/netcoreapp1.1/hello-aspnet.dll
+/Users/tadriano/Documents/hello-aspnet/obj/Debug/netcoreapp1.1/hello-aspnet.pdb
