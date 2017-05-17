@@ -1,5 +1,5 @@
 # dotnetcore-docker
 
-Projeto criado para testar envio de um projeto .net core em um container do Docker para o heroku.
+Project created to test .NET Core with Docker in Heroku
 
-Post do passo a passo: http://programandodozero.com.br/
+To see this step by step:  http://programandodozero.com.br/
